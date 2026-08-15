@@ -204,6 +204,7 @@ body {
     rgba(255,255,255,.05);
     backdrop-filter:
     blur(20px);
+    display: none;
 }
 
 .btn.transparent:hover {
